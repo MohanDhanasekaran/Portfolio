@@ -47,7 +47,7 @@ const Home = () => {
           </div>
           <div className="min-w-fit lg:self-baseline self-center">
             <img
-              className="rounded-tl-[125px] rounded-br-[125px] h-[315px] w-[300px] md:scale-110 duration-500 ease-out bg-gray-300 shadow-[0_0_20px_3px] shadow-zinc-300"
+              className="rounded-tl-[125px] rounded-br-[125px] h-[355px] w-[315px] md:scale-110 duration-500 ease-out bg-gray-300 shadow-[0_0_20px_3px] shadow-zinc-300"
               alt="profile"
               src={profile}
             />
